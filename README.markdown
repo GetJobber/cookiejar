@@ -1,3 +1,8 @@
+JOBBER COOKIEJAR
+================
+
+This fork was created to address issues with CookieJar and customized Salesforce domains. The current maintained(?) version does not comply with RFC standards. [See this issue in the main repo for a list of them](https://github.com/dwaite/cookiejar/issues/19) We have applied a monkey patch recommended by the Restforce gem. [See the relevant Restforce issue](https://github.com/restforce/restforce/issues/120) If CookieJar gets it together/someone takes over maintenance and fixes things, we can abandon this fork.
+
 Ruby CookieJar
 ==============
 
